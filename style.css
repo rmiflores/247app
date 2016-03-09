@@ -11,7 +11,7 @@ p, button {
 }
 
 p {
-	font-size: 22px;
+	font-size: 20px;
 }
 
 h1 {
@@ -20,4 +20,18 @@ h1 {
 
 .clueButtons {
 	margin-top: 15px;
+}
+
+.clue {
+	border: 1px solid gray;
+	padding: 5%;
+	background-color: #ffffff;
+}
+
+.skyBackground {
+	background-color: #a8ebf6;
+}
+
+.sandBackground {
+	background-color: #faebc2;
 }

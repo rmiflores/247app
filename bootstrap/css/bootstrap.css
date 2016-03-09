@@ -3118,8 +3118,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary {
   color: #fff;
-  background-color: #337ab7;
-  border-color: #2e6da4;
+  background-color: #60e6fb;
 }
 .btn-primary:focus,
 .btn-primary.focus {
@@ -5442,7 +5441,7 @@ button.list-group-item-danger.active:hover,
 a.list-group-item-danger.active:focus,
 button.list-group-item-danger.active:focus {
   color: #fff;
-  background-color: #a94442;
+  background-color: #fb6260;
   border-color: #a94442;
 }
 .list-group-item-heading {
