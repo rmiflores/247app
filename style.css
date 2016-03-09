@@ -29,7 +29,11 @@ h1 {
 }
 
 .skyBackground {
-	background-color: #a8ebf6;
+	background: url(images/landingBackground.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .sandBackground {
@@ -42,4 +46,8 @@ h1 {
 
 #appIcon {
 	height: 75px;
+}
+
+#tagline {
+	font-size: 30px;
 }

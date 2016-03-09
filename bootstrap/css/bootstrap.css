@@ -3434,7 +3434,7 @@ fieldset[disabled] .btn-link:focus {
   width: 85%;
   height: 35%;
   margin-top: 5%;
-  font-size: 25px;
+  font-size: 30px;
   line-height: 1.3333333;
   border-radius: 6px;
 }
@@ -3443,8 +3443,8 @@ fieldset[disabled] .btn-link:focus {
   padding: 20px 30px;
   font-size: 30px;
   line-height: 1;
-  border-radius: 10px;
 }
+
 .btn-xs,
 .btn-group-xs > .btn {
   padding: 1px 5px;
