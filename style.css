@@ -76,6 +76,7 @@ h1 {
     font-family: 'Great Vibes', serif;
     color: #ffffff;
     text-decoration:none;
+    text-shadow: 0.5px 0.5px gray;
 }
 #bottomNav a:hover {
     color:black;
