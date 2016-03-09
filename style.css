@@ -11,7 +11,7 @@ p, button {
 }
 
 p {
-	font-size: 20px;
+	font-size: 25px;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h1 {
 	background-color: #ffffff;
 }
 
-.skyBackground {
+.landingBackground {
 	background: url(images/landingBackground.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -36,8 +36,16 @@ h1 {
   background-size: cover;
 }
 
+.skyBackground {
+	background-color: #a8ebf6;
+}
+
 .sandBackground {
 	background-color: #faebc2;
+}
+
+.tabBarItem {
+	border: 1px solid black;
 }
 
 #lostButton {
@@ -50,4 +58,21 @@ h1 {
 
 #tagline {
 	font-size: 30px;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#bottomNav {
+	padding:10px;
+}
+#bottomNav a {
+    font-size:20pt;
+    color: black;
+    text-decoration:none;
+}
+#bottomNav a:hover {
+    color:#fff;
 }
