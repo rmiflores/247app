@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Great Vibes', serif;
+}
+
+p, button {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+p {
+	font-size: 22px;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+.clueButtons {
+	margin-top: 15px;
+}
