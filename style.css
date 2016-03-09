@@ -44,10 +44,6 @@ h1 {
 	background-color: #faebc2;
 }
 
-.tabBarItem {
-	border: 1px solid black;
-}
-
 #lostButton {
 	margin: auto;
 }
@@ -74,10 +70,24 @@ h1 {
 	padding:10px;
 }
 #bottomNav a {
-    font-size:20pt;
-    color: black;
+    font-size:15pt;
+    font-family: 'Great Vibes', serif;
+    color: #ffffff;
     text-decoration:none;
+    text-shadow: 2px 2px #000000;
 }
 #bottomNav a:hover {
-    color:#fff;
+    color:black;
+}
+
+#tabBarItem1 {
+	border-right: 1px solid #ffffff;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+#tabBarItem2 {
+	border-left: 1px solid #ffffff;
+	padding-top: 0;
+	padding-bottom: 0;
 }
