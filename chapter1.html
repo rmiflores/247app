@@ -26,7 +26,7 @@
 
   <body class="sandBackground">
     <nav class="navbar navbar-default skyBackground" width="100%">
-      <h2>Chapter 1</h2>
+      <img src="images/appIcon.png" id="appIcon">
     </nav>
     <div class="container">
       <h1>Chapter 1: First Date</h1>
@@ -39,8 +39,24 @@
               <strong>Ernesto</strong>. Arrange yourselves in order of how much you like Italian food and take a group selfie.</p>
       </div>
 
-      <button class="btn btn-primary btn-lg clueButtons">I'M LOST</button>
+      <button class="btn btn-primary btn-lg clueButtons" data-toggle="modal" data-target="#lostModal">I'M LOST</button>
       <button class="btn btn-danger btn-lg clueButtons">I'M HERE</button>
+
+      <!-- Modal -->
+      <div class="modal fade" id="lostModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title" id="myModalLabel">Need some help?</h1>
+            </div>
+            <div class="modal-body">
+              <p>It looks like you're a little bit east of your location. <strong> Head two blocks to the west.</strong></p><br>
+              <button type="button" class="btn btn-danger btn-lg" id="lostButton" data-dismiss="modal">Thanks!</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </body>
 </html>

@@ -35,3 +35,11 @@ h1 {
 .sandBackground {
 	background-color: #faebc2;
 }
+
+#lostButton {
+	margin: auto;
+}
+
+#appIcon {
+	height: 75px;
+}
