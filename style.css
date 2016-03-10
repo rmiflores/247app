@@ -25,9 +25,8 @@ h1 {
 }
 
 .clue {
-	border: 1px solid gray;
+	border: 2px solid #a8ebf6;
 	padding: 5%;
-	background-color: #ffffff;
 }
 
 .landingBackground {
