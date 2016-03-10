@@ -46,6 +46,10 @@ h1 {
 	background-color: #faebc2;
 }
 
+.largerText {
+	font-size: 30px;
+}
+
 #lostButton {
 	margin: auto;
 }

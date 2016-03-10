@@ -22,6 +22,7 @@
     <!-- JS -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+    <script type="text/javascript" src="custom.js"></script>
   </head>
 
   <body class="sandBackground">
@@ -73,6 +74,27 @@
             <div class="modal-body">
               <p>It looks like you're a little bit east of your location. <strong> Head two blocks to the west.</strong></p><br>
               <button type="button" class="btn btn-danger btn-lg" id="lostButton" data-dismiss="modal">Thanks!</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Instructions Modal -->
+      <div class="modal fade" id="instructionModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title" id="myModalLabel">Introduction</h1>
+              <p class="largerText">Follow Harry &amp Sally's story by:</p>
+              <ul>
+                <li>Solving each of the clues</li>
+                <li>Taking a photo at each destination</li>
+                <li>Keeping an eye out for bonus tasks</li>
+              </ul>
+            </div>
+            <div class="modal-body">
+              
+              <button type="button" class="btn btn-danger btn-lg" id="lostButton" data-dismiss="modal">Got it!</button>
             </div>
           </div>
         </div>
