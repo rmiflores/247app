@@ -24,6 +24,10 @@ h1 {
 	margin-top: 15px;
 }
 
+.alignLeft {
+	text-align: left;
+}
+
 .clue {
 	border: 2px solid #a8ebf6;
 	padding: 5%;
