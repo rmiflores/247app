@@ -53,6 +53,10 @@ h1 {
 	font-size: 30px;
 }
 
+#brideGroomButton {
+	color: #52585c;
+}
+
 #lostButton {
 	margin: auto;
 }
