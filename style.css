@@ -17,7 +17,7 @@ p {
 }
 
 h1 {
-	font-size: 45px;
+	font-size: 40px;
 }
 
 .clueButtons {
@@ -31,6 +31,11 @@ h1 {
 .clue {
 	border: 2px solid #a8ebf6;
 	padding: 5%;
+}
+
+.clue p {
+	font-size: 17px;
+	line-height: 1.25;
 }
 
 .landingBackground {
