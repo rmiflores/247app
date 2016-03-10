@@ -100,3 +100,8 @@ h1 {
 	padding-top: 0;
 	padding-bottom: 0;
 }
+
+#floatingButton {
+	background-color: rgb(0, 0, 0, 0.6);
+	padding-bottom: 5%;
+}
