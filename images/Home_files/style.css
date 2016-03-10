@@ -106,17 +106,7 @@ h1 {
 	padding-bottom: 0;
 }
 
-#finishButton {
-	position: absolute; 
-	bottom: 0;  
-	height: 8%;
-	width: 50%;
-	margin-bottom: 0; 
-	left: 25%;
-}
-
-#imageFeed {
-	margin-bottom: 0;
-	margin-left: auto;
-	margin-right: auto;
+#floatingButton {
+	background-color: rgb(0, 0, 0, 0.6);
+	padding-bottom: 5%;
 }
