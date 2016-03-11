@@ -6,10 +6,24 @@ body {
 
 h1, h2, h3, h4, h5 {
 	font-family: 'Great Vibes', serif;
+	color: #52585C;
+}
+
+a:hover {
+	color: #52585C;
+}
+
+a {
+	color: #52585C;
 }
 
 p, button, li {
 	font-family: 'Alegreya Sans', sans-serif;
+	color: #52585C;
+}
+
+li {
+	list-style-type: none;
 }
 
 p {
