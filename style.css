@@ -104,16 +104,19 @@ h1 {
 }
 
 .inputfile + label {
-    font-size: 1.25em;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: normal;
     color: white;
-    background-color: black;
+    background-color: #a8ebf6;
+    font-family: 'Alegreya Sans', sans-serif;
     display: inline-block;
-}
 
-.inputfile:focus + label,
-.inputfile + label:hover {
-    background-color: red;
+    margin-top: 5%;
+	  padding: 10px 16px;
+	  line-height: 1;
+	  width: 40%;
+	  height: 15%;
+	  border-radius: 3px;
 }
 
 input {
