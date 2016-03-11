@@ -145,8 +145,6 @@ input {
 #feedModal {
 	position: absolute;
 	top: 45%;
-	width: 80%;
-	margin: auto;
 }
 
 #popupModal {
