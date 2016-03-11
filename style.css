@@ -85,6 +85,10 @@ h1 {
 }
 */
 
+#brideGroomButton:hover {
+	background-color: #fb6260;
+}
+
 #brideGroomButton {
 	color: #52585c;
 }
