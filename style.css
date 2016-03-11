@@ -20,8 +20,13 @@ h1 {
 	font-size: 40px;
 }
 
+.thirtySix {
+	font-size: 36px;
+}
+
 .clueButtons {
 	margin-top: 15px;
+	width: 45%;
 }
 
 .alignLeft {
@@ -34,7 +39,7 @@ h1 {
 }
 
 .clue p {
-	font-size: 17px;
+	font-size: 16px;
 	line-height: 1.25;
 }
 
