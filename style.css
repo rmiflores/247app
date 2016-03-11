@@ -164,6 +164,11 @@ input {
   top: 25%;
 }
 
+#signature {
+	position: relative;
+	bottom: 15px;
+}
+
 #feedModal {
 	position: absolute;
 	top: 30%;
