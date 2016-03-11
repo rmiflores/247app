@@ -95,6 +95,8 @@ h1 {
 
 #appIcon {
 	height: 40px;
+	position: relative;
+	top: 5px;
 }
 
 #backImage {
