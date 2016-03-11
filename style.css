@@ -72,6 +72,10 @@ h1 {
 	font-size: 17px;
 }
 
+.bonusText {
+	font-size: 15px;
+}
+
 /*
 .inputfile {
 	width: 0.1px;
@@ -163,7 +167,7 @@ input {
 
 #popupModal {
 	position: absolute;
-  top: 2%;
+  top: 10%;
 }
 
 #myModalLabel {
@@ -193,5 +197,5 @@ input {
 }
 
 #alertText {
-	font-size: 18px;
+	font-size: 15px;
 }
