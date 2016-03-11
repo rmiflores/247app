@@ -108,6 +108,7 @@ h1 {
 }
 
 #bottomNav {
+	border-top: 1px solid #ffffff;
 }
 #bottomNav a {
     font-size:15pt;
@@ -118,6 +119,10 @@ h1 {
 }
 #bottomNav a:hover {
     color:black;
+}
+
+#topNav {
+	border-bottom: 1px solid #ffffff;
 }
 
 input {
