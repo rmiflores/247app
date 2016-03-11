@@ -94,7 +94,7 @@ h1 {
     color:black;
 }
 
-#instructionModal {
+#instructionModal, #lostModal {
   position: absolute;
   top: 25%;
 }
