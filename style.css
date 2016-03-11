@@ -154,3 +154,8 @@ input {
 	margin-right: auto;
 	position: relative;
 }
+
+#subtitleText {
+	font-size: 16px;
+	line-height: 1.25;
+}
