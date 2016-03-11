@@ -3341,7 +3341,6 @@ fieldset[disabled] .btn-warning.focus {
 .btn-danger {
   color: #fff;
   background-color: #fb6260;
-  border-color: #d43f3a;
 }
 .btn-danger:focus,
 .btn-danger.focus {
@@ -3441,8 +3440,8 @@ fieldset[disabled] .btn-link:focus {
 
 .btn-xlg {
   padding: 10px 16px;
-  width: 350px;
-  height: 60px;
+  width: 300px;
+  height: 50px;
   margin-top: 5%;
   font-size: 25px;
   line-height: 1.3333333;
