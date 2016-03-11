@@ -185,6 +185,12 @@ input {
 	padding-bottom: 0;
 }
 
+#checkIcon {
+	margin: auto;
+	font-size: 3em;
+	text-align: center;
+}
+
 #imageFeed {
 	margin-left: auto;
 	margin-right: auto;
