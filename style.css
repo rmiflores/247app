@@ -137,13 +137,13 @@ input {
 }
 
 #tabBarItem1 {
-	border-right: 0.5px solid #ffffff;
+	border-right: 0.25px solid #ffffff;
 	padding-top: 0;
 	padding-bottom: 0;
 }
 
 #tabBarItem2 {
-	border-left: 0.5px solid #ffffff;
+	border-left: 0.25px solid #ffffff;
 	padding-top: 0;
 	padding-bottom: 0;
 }
