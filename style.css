@@ -166,6 +166,10 @@ input {
   top: 2%;
 }
 
+#myModalLabel {
+	font-size: 35px;
+}
+
 #tabBarItem1 {
 	border-right: 1px solid #ffffff;
 	padding-top: 0;
