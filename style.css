@@ -58,42 +58,7 @@ h1 {
 	font-size: 30px;
 }
 
-#brideGroomButton {
-	color: #52585c;
-}
-
-#lostButton {
-	margin: auto;
-}
-
-#appIcon {
-	height: 40px;
-}
-
-#backImage {
-	height: 60px;
-	padding-top: 10px;
-}
-
-#footer > .container {
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-#bottomNav {
-	padding:10px;
-}
-#bottomNav a {
-    font-size:15pt;
-    font-family: 'Great Vibes', serif;
-    color: #ffffff;
-    text-decoration:none;
-    text-shadow: 0.3px 0.3px gray;
-}
-#bottomNav a:hover {
-    color:black;
-}
-
+/*
 .inputfile {
 	width: 0.1px;
 	height: 0.1px;
@@ -118,10 +83,41 @@ h1 {
 	  height: 15%;
 	  border-radius: 3px;
 }
+*/
 
-.squareImage {
-	width: 350px;
-	height: 350px;
+#brideGroomButton {
+	color: #52585c;
+}
+
+#lostButton {
+	margin: auto;
+}
+
+#appIcon {
+	height: 40px;
+}
+
+#backImage {
+	height: 60px;
+	padding-top: 10px;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#bottomNav {
+}
+#bottomNav a {
+    font-size:15pt;
+    font-family: 'Great Vibes', serif;
+    color: #ffffff;
+    text-decoration:none;
+    text-shadow: 0.3px 0.3px gray;
+}
+#bottomNav a:hover {
+    color:black;
 }
 
 input {
