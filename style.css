@@ -133,7 +133,7 @@ input {
 	background-color: red;
 }
 
-#instructionModal, #lostModal, #feedModal, {
+#instructionModal, #lostModal, #feedModal {
   position: absolute;
   top: 25%;
 }
