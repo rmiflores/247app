@@ -133,14 +133,19 @@ input {
 	background-color: red;
 }
 
-#instructionModal, #lostModal, #feedModal {
+#instructionModal, #lostModal {
   position: absolute;
   top: 25%;
 }
 
+#feedModal {
+	position: absolute;
+	top: 35%;
+}
+
 #popupModal {
 	position: absolute;
-  top: 15%;
+  top: 10%;
 }
 
 #tabBarItem1 {
