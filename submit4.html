@@ -34,7 +34,7 @@
         <h1>Submit Photo</h1>
 
         <img src="images/swift4.png" width="100%" margin="auto">
-        <button class="btn btn-danger btn-lg" margin-bottom="0" onclick="location.href='finish.html'">Submit Photo</button>
+        <button class="btn btn-danger btn-lg" margin-bottom="0" data-toggle="modal" data-target="#feedModal">Submit Photo</button>
 
         <!-- Footer -->
         <div id="footer">
@@ -50,6 +50,19 @@
                   <img src="images/squaresIcon.png" width="20%" height="15%"><br>live feed
                 </div>
               </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="feedModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-body">
+                <div class="glyphicon glyphicon-ok" style="color:#52585C" id="checkIcon"></div><br><br>
+                <p>Saved to Live Feed. Check it out!</p><br>
+                <button type="button" class="btn btn-primary btn-lg" margin-bottom="0" id="lostButton" onclick="location.href='finish.html'">Cool!</button>
+              </div>
             </div>
           </div>
         </div>
